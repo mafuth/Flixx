@@ -1,4 +1,4 @@
-# Home cinema
+# FLIXX
 
 ## How to use
 
