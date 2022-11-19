@@ -5,7 +5,7 @@
 ### Install dependencies
 
 ```sh
-composer install && php artisan key:generate && cd torrent && npm install
+composer install && php artisan key:generate && cd torrent && npm install && cd ../ && clear
 ```
 
 ### Start servers
