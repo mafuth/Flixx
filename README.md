@@ -38,3 +38,22 @@ TORRENT_END_POINT = "..."
 TORRENT_API_KEY = "..."
 ```
 
+<!-- CONTRIBUTING -->
+# Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+### Todo
+
+- [ ] Fix page expired alert bug on movie page
+- [ ] Add automated series collection
+- [ ] Add loggin and users
+
+### Done ✓
+
+- [x] Add automated movies collection
+- [x] Add torrent based streaming
+
