@@ -1,0 +1,10 @@
+#git ignore files and folder goes in this folder
+/vendor
+.htaccess
+composer.phar
+composer.lock
+storage/cache
+storage/cachelog.log
+node_modules
+temp
+torrents.json
